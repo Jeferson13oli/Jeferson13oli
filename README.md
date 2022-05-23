@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do email **jeferson13oli@gmail.com**
 
-- 📄 Atualmente trabalho como Coordenador na Secretaria de Educação, utilizo analise de dados para auxiliar o meu trabalho com POwer BI e Python [linkedin.com/in/jeferson-oliveira-501ba717b](linkedin.com/in/jeferson-oliveira-501ba717b)
+- 📄 Sou Matemático Formado pela Universidade Federal da Bahia, atualmente trabalho como Coordenador na Secretaria de Educação, utilizo analise de dados para auxiliar o meu trabalho com POwer BI e Python [linkedin.com/in/jeferson-oliveira-501ba717b](linkedin.com/in/jeferson-oliveira-501ba717b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
