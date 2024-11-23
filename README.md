@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Jeferson Oliveira</h1>
-<h3 align="center">Apaixonado por Ciências e Análise de Dados</h3>
+<h3 align="center">Apaixonado por Ciência, Engenharia e Análise de Dados</h3>
 
 - 🌱 Atualmente Estou Aprendendo **Machine Learning, PySpark e OCI(Oracle Cloud Infrastructure)**
 
