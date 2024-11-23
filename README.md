@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do email **jeferson13oli@gmail.com**
 
-- 📄 Sou Matemático Formado pela Universidade Federal da Bahia, atualmente trabalho como Coordenador na Secretaria de Educação, utilizo analise de dados para auxiliar o meu trabalho com Power BI, SQL e Python [linkedin.com/in/jeferson-oliveira-501ba717b](linkedin.com/in/jeferson-oliveira-501ba717b)
+- 📄 Sou Matemático Formado pela Universidade Federal da Bahia, atualmente trabalho como Engenheiro de dados na SEMIT(Secretaria Municipal de Inovação e Tecnologia de Salvador), Utilizo Python, SQL, OCI(Oracle Cloud Infrastructure) e ODI(Oracle Data Integrator) no meu trabalho de engenheiro de dados. [linkedin.com/in/jeferson-oliveira-501ba717b](linkedin.com/in/jeferson-oliveira-501ba717b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
