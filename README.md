@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Jeferson Oliveira</h1>
 <h3 align="center">Apaixonado por Ciências e Análise de Dados</h3>
 
-- 🌱 Atualmente Estou Aprendendo **Python, SQL e Power BI**
+- 🌱 Atualmente Estou Aprendendo **Machine Learning, PySpark e OCI(Oracle Cloud Infrastructure)**
 
 - 💬 Me pergunte sobre **SQL, Python, Google Data Studio, Power BI, Excel e R**
 
